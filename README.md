@@ -2,7 +2,7 @@
 
 **Linux Infrastructure Lead — 15+ years running enterprise Linux at scale, now building AI-enabled operations.**
 
-📍 Chennai, India · 📧 thiyagaraj.chinnaswamy@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
+📍 Chennai, India · 📧 thiyagaraj.chinnaswamy@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/thiyagaraj-chinnaswamy-52906416)
 
 ---
 
