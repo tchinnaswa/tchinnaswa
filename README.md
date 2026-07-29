@@ -20,8 +20,8 @@
 |---|---|
 | [linux-log-sentinel](https://github.com/tchinnaswa/linux-log-sentinel) | AI-assisted Linux log forensics — pattern engine + incident matrix + MCP server for Claude |
 | [ansible-cis-hardening](https://github.com/tchinnaswa/ansible-cis-hardening) | Production-style CIS benchmark hardening role with rollback safety |
-| [ollama-secure-serve](#) | Self-hosted LLM behind nginx + auth + systemd — AI as a securely operated service |
-| [boot-forensics-playbook](#) | Field runbook for GRUB/initramfs/LUKS boot failures on encrypted fleets |
+| [ollama-secure-serve](https://github.com/tchinnaswa/llm-secure-gateway) | Self-hosted LLM behind nginx + auth + systemd — AI as a securely operated service |
+| [boot-forensics-playbook](https://github.com/tchinnaswa/boot-forensics-playbook) | Field runbook for GRUB/initramfs/LUKS boot failures on encrypted fleets |
 
 ## Recent highlights
 
